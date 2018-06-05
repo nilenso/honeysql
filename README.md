@@ -11,6 +11,10 @@ SQL as Clojure data structures. Build queries programmatically -- even at runtim
 
 [![Clojars Project](http://clojars.org/honeysql/latest-version.svg)](http://clojars.org/honeysql)
 
+## Npm - Self-host package
+
+[![NPM Version](https://img.shields.io/npm/v/@honeysql/honeysql.svg)](https://www.npmjs.org/package/@honeysql/honeysql)
+
 ## Usage
 
 ```clj
